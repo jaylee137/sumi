@@ -44,3 +44,4 @@ Due to XVM v2 limitations currently Sumi processes only:
 - altering contract state, so no `view`s
 
 Overloaded functions are supported, but their return type is also ignored for now.
+Great!!!
